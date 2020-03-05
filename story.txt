@@ -1,1 +1,2 @@
-    Henry is a student at UW-Madiosn.He learns computer-science.  
+	Henry is a student at UW-Madiosn. He learns computer-science.  
+	It was a Wednsday afternoon when Henry is preparing for his computer-science midterm. He found out that he knew little about git and version control, which was going to be on the exam. He decided to do some review on it, and the best way to learn version control is to actually practice it.
