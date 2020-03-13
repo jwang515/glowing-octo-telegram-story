@@ -10,3 +10,5 @@ finally knew like the back of his hand. Finally exam day came and a
 spooky unknown git command showed up on the exam!
     What a pity for that boy! By the way, he becomes a git master who
 knows every git command after that bad day!
+	But he failed the exam and was kicked out of the school. What a 
+poor boy!
